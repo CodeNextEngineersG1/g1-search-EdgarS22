@@ -7,7 +7,10 @@ html {
 }
 
 body {
+
   text-align: center;
+  background-color: #89cff0;
+
 }
 
 /* place your styles below */
@@ -45,6 +48,24 @@ body {
   margin: 0 auto;
   max-width: 25%;
 }
+
+#image1{
+  display: block;
+  width: 200px;
+  height 200px;
+  flex: auto;
+}
+
+#title{
+  font-family: 'Righteous', cursive;
+  font-size: 100px;
+
+
+}
+
+
+
+
 
 .suggestion{
   background-color: transparent;

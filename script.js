@@ -1,4 +1,47 @@
 /* write your script here */
+//  var database =[
+// {
+//   "name":"Salvador Avelar",
+//   "born":"December 23, 2001",
+//   "died":null,
+//   "school":"Aspire Lionel Wilson Prep",
+//   "picture":"img/Salvador.jpg",
+//   "bio":"snip"
+// },
+// {
+//   "name":"Devin Frisbey",
+//   "born":"August 27, 2002",
+//   "dead":null,
+//   "school":"Aspire Golden State Prep",
+//   "picture":"img/Devin.jpg",
+//   "bio":"snip"
+// },
+// {
+//   "name":"Orlando Molina",
+//   "born":"August 23, 2002",
+//   "died":null,
+//   "school":"Aspire Golden State Prep",
+//   "picture":null,
+//   "bio":"snip"
+// },
+// {
+//   "name":"Edgar Suarez",
+//   "born":"February 22, 2002",
+//   "died":null,
+//   "school":"Aspire Lionel Wilson Prep",
+//   "picture":"img/Edgar.jpg",
+//   "bio":"snip"
+// },
+// {
+//   "name":"Elias Cruz",
+//   "born":"February 5, 2002",
+//   "died":null,
+//   "school":"Oakland Tech",
+//   "picture":null,
+//   "bio":"snip"
+// }
+//  ];
+
 var database;
 var searchBar = document.getElementById("search-bar");
 var searchButton = document.getElementById("search-button");
